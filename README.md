@@ -1,5 +1,5 @@
 - 👋 Jiaxin Wang, Department of Electrical Engineering and Applied Electronic Technology, Tsinghua University, China.
-- 👀 I’m interested in optimization, machine learning, and their applications in power systems.
+- 👀 I’m interested in convex optimizations, machine learning, and their applications in power systems.
 - 📫 Email: jiaxinwangthu@gmail.com, jiaxinw18@foxmail.com
 
 <!---
